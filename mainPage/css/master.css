@@ -10,3 +10,7 @@
     flex-wrap: nowrap;
     width: auto;
 }
+
+header > h1 {
+    text-align: center;
+}
